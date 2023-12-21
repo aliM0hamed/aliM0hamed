@@ -1,11 +1,14 @@
+<!--<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="200" style="border-radius: 1em;" padding="30px">-->
+
+
 <h1 align="center">  Welcome! </h1>
+
 <!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Amr, Welcome To My Github Profile ♥  -->
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 
 <br/>
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="340" height="250" style="border-radius: 1em;" padding="10px">
 
 <h3>🚀 About Me</h3> 
 <h4> I am aLi Muhammad a software engineer. I am a front-end developer with 3 years of experience in this field. I'm passionate about front-end development roles and coding in general, and always strive to stay on top of the latest trends and technologies in my field
@@ -14,7 +17,7 @@
 
 	
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 60% height=95px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 80% height=95px>
 
 ### Languages and Tools 🛠 : 
 
@@ -28,7 +31,7 @@
 
 
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=90% height=95px>
 
  ### 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DevAmr74/)
