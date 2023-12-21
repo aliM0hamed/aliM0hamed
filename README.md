@@ -11,7 +11,7 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4> I am aLi Muhammad a software engineer. I am a front-end developer with 3 years of experience in this field. I'm passionate about front-end development roles and coding in general, and always strive to stay on top of the latest trends and technologies in my field
+<h4> I am aLi Muhammad a software engineer. I am a front-end developer  I'm passionate about front-end development roles and coding in general, and always strive to stay on top of the latest trends and technologies in my field
 . . . </h4>
 
 
