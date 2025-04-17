@@ -11,17 +11,7 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4> I am aLi Muhammad a software engineer. I am a front-end developer  I'm passionate about front-end development roles and coding in general, and always strive to stay on top of the latest trends and technologies in my field
-. . . </h4>
-
-<h3>🚀 About Me</h3> 
-<h4>
-  I am Ali Muhammad, an aspiring IoT engineer and passionate content creator.  
-  I have a strong interest in building impactful and innovative solutions using technology, especially in the Internet of Things field.  
-  I also enjoy learning about self-development, psychology, and faith-based values.  
-  I’m currently building my first IoT project: a smart container management system.  
-  I'm actively developing my technical skills in web development, electronics, and programming — and I hope to turn my content creation into a valuable source of income.
-</h4>
+<h4> I am ali Muhammad, a junior IoT engineer. I'm passionate about learning, building smart systems, and growing in the tech field. Always exploring new tools and ideas... </h4>
 
 
 
@@ -34,6 +24,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=flat-the-badge&logo=python&logoColor=black)
+
 
 
 - ### I’m currently learning 
