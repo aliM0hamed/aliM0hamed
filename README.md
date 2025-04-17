@@ -29,7 +29,7 @@
 
 
 - ### I’m currently learning 
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![IoT](https://img.shields.io/badge/-iot-%23282C34?style=flat-square&logo=IoT)
 
 
 
