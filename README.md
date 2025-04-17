@@ -14,6 +14,16 @@
 <h4> I am aLi Muhammad a software engineer. I am a front-end developer  I'm passionate about front-end development roles and coding in general, and always strive to stay on top of the latest trends and technologies in my field
 . . . </h4>
 
+<h3>🚀 About Me</h3> 
+<h4>
+  I am Ali Muhammad, an aspiring IoT engineer and passionate content creator.  
+  I have a strong interest in building impactful and innovative solutions using technology, especially in the Internet of Things field.  
+  I also enjoy learning about self-development, psychology, and faith-based values.  
+  I’m currently building my first IoT project: a smart container management system.  
+  I'm actively developing my technical skills in web development, electronics, and programming — and I hope to turn my content creation into a valuable source of income.
+</h4>
+
+
 
 	
 
